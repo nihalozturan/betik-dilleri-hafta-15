@@ -1,0 +1,24 @@
+console.log(i);
+console.log (X[i]);
+
+
+
+
+function sanas(a){
+return a*a}
+x=['nihal']
+for (let i=0;i<x.lenght;i++){
+let k=sans(lenght(x[i])); // k=sans((x[i].lenght));
+console.log[k];
+
+////
+let m=sans(k);
+console.log(k);
+
+function sanas(a){
+return a*a}
+x=['nihal']
+for (let i=0;i<x.lenght;i++){
+let k=sans(lenght(x[i])); // k=sans((x[i].lenght));
+let m=sans(k);
+console.log(m);
